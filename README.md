@@ -10,6 +10,8 @@
 ---
 
 ## My validations: 
++ [GaiaNet](https://v.twaltoner.skin/twaltoner/actual-testnets/gaianet)
++ [Fractal Bitcoin](https://v.twaltoner.skin/twaltoner/actual-testnets/fractal-bitcoin)
 + [Dymension](https://fl.dym.fyi/rollapp/twaltoner_7972266-1)
 + [Babylon](https://github.com/babylonchain/networks/pull/300)
 + [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1569pl24v0pasn989d2r6kvrn6c4chg2lmd94aq)
