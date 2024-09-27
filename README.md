@@ -12,8 +12,8 @@
 ## My validations: 
 + [GaiaNet](https://v.twaltoner.skin/twaltoner/actual-testnets/gaianet)
 + [Fractal Bitcoin](https://v.twaltoner.skin/twaltoner/actual-testnets/fractal-bitcoin)
-+ [Stader](https://v.twaltoner.skin/twaltoner)
-+ [Lamina1](https://v.twaltoner.skin/twaltoner)
++ [Stader](https://v.twaltoner.skin/twaltoner/actual-testnets/stader)
++ [Lamina1](https://v.twaltoner.skin/twaltoner/actual-testnets/lamina1)
 + [Babylon](https://github.com/babylonchain/networks/pull/300)
 + [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1569pl24v0pasn989d2r6kvrn6c4chg2lmd94aq)
 + [Crossfi](https://explorer.nodestake.org/crossfi-testnet/staking/mxvaloper1zanfz2sj6u38pt47aq6czm483y7fdx96m7szww)
