@@ -22,7 +22,7 @@
 
 ---
 
- ## You can check out my project guides here ---> https://v.twaltoner.skin/twaltoner
+ ## You can check out our project guides here ---> https://v.twaltoner.skin/twaltoner
 
 ---
 
