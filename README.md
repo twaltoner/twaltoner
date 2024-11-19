@@ -10,6 +10,8 @@
 ---
 
 ## My validations: 
++ [Story](https://v.twaltoner.skin/twaltoner/actual-testnets/story)
++ [Empeiria](https://v.twaltoner.skin/twaltoner/actual-testnets/empeiria)
 + [GaiaNet](https://v.twaltoner.skin/twaltoner/actual-testnets/gaianet)
 + [Fractal Bitcoin](https://v.twaltoner.skin/twaltoner/actual-testnets/fractal-bitcoin)
 + [Stader](https://v.twaltoner.skin/twaltoner/actual-testnets/stader)
